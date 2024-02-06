@@ -4,6 +4,7 @@
 .vs
 .vs2
 .vs2/*
+x64
 
 # Compiled Object files
 *.slo
